@@ -66,6 +66,7 @@ The Power BI dashboard includes:
 ---
 ## 📁 Repository Structure
 
+```
 FUTURE_ML_01/
 │
 ├── sales_forecasting.ipynb        # Jupyter Notebook (ML workflow)
@@ -74,6 +75,7 @@ FUTURE_ML_01/
 ├── AI_Sales_Forecasting_Dashboard.pbix  # Power BI dashboard file
 ├── dashboard.png                  # Dashboard screenshot
 └── README.md                      # Project documentation
+```
 
 ---
 
