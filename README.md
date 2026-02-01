@@ -64,16 +64,16 @@ The Power BI dashboard includes:
 ![Dashboard Preview](dashboard.png)
 
 ---
-
 ## 📁 Repository Structure
+
 FUTURE_ML_01/
 │
-├── sales_forecasting.ipynb # Jupyter Notebook (ML workflow)
-├── train.csv # Original dataset
-├── sales_forecast.csv # Forecast output from Prophet
-├── AI_Sales_Forecasting_Dashboard.pbix # Power BI dashboard file
-├── dashboard.png # Dashboard screenshot
-└── README.md # Project documentation
+├── sales_forecasting.ipynb        # Jupyter Notebook (ML workflow)
+├── train.csv                      # Original dataset
+├── sales_forecast.csv             # Forecast output from Prophet
+├── AI_Sales_Forecasting_Dashboard.pbix  # Power BI dashboard file
+├── dashboard.png                  # Dashboard screenshot
+└── README.md                      # Project documentation
 
 ---
 
